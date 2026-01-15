@@ -49,6 +49,4 @@ Submission:
 
 Developed By:
 -------------
-Muhammad Atif Qureshi (57230)
 Jawad Ahmed Javed (56751)
-BSCS-5B
