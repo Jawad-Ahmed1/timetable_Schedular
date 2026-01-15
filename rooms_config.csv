@@ -1,0 +1,25 @@
+Room,Type,Capacity
+Room-101,Lecture,40
+Room-102,Lecture,40
+Room-103,Lecture,40
+Room-104,Lecture,40
+Room-105,Lecture,40
+Room-201,Lecture,50
+Room-202,Lecture,50
+Room-203,Lecture,50
+Room-204,Lecture,50
+Room-205,Lecture,50
+Room-301,Lecture,60
+Room-302,Lecture,60
+Room-303,Lecture,60
+Lab-101,Lab,30
+Lab-102,Lab,30
+Lab-103,Lab,30
+Lab-201,Lab,30
+Lab-202,Lab,30
+Lab-203,Lab,30
+Lab-301,Lab,25
+Lab-302,Lab,25
+Lab-303,Lab,25
+Seminar Hall,Special,100
+Auditorium,Special,200
